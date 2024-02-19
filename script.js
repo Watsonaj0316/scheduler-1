@@ -49,3 +49,5 @@ $(function() {
     // Update time block colors every minute
     setInterval(updateTimeBlockColors, 60000);
 });
+
+        
