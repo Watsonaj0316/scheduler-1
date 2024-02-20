@@ -1,5 +1,3 @@
-# scheduler-1
-
 Link to Repository: https://github.com/Watsonaj0316/scheduler-1 
 
 Link to Deployed Application:
