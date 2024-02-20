@@ -11,4 +11,8 @@ General info: The scheduler changes colors based on the time of the day. Red col
 
 Screenshot of the  following application:
 
+<<<<<<< HEAD
  ![screenshot](IMG_5936.jpg)
+=======
+ ![screenshot](IMG_5936.jpg)
+>>>>>>> 91dc3fc5924e68964d29f9367cee1e17a422da35
