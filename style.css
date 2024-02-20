@@ -35,12 +35,12 @@ textarea {
   color: white;
 }
 
-.mid {
+.present {
   background-color: lightcoral;
   color: white;
 }
 
-.later {
+.future {
   background-color: lightgreen;
   color: white;
 }
